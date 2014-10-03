@@ -7,7 +7,9 @@ Desafio Bowling Game
 Dojo coding do dia 29/09/2014
 
 Participantes
- - Darlene Medeiros  
- - Felipe de Morais  
- - Hugo Leonardo Costa e Silva
+ - Bruno Souza (Péricles)
+ - Darlene Medeiros @darlenedms
+ - Hugo Leonardo Costa e Silva @hugoleodev
+ - Nicolas Iensen
+ - Raffael Tancman
   
