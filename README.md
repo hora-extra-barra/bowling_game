@@ -7,9 +7,10 @@ Desafio Bowling Game
 Dojo coding do dia 29/09/2014
 
 Participantes
- - Bruno Souza (Péricles)
+ - Bruno Souza @chevectra87
  - Darlene Medeiros @darlenedms
  - Hugo Leonardo Costa e Silva @hugoleodev
- - Nicolas Iensen
- - Raffael Tancman
+ - Nicolas Iensen @nicolasiensen
+ - Raffael Tancman @rtancman
+ - Vinicius Teles Bezerra @viniciustelesbezerra
 
